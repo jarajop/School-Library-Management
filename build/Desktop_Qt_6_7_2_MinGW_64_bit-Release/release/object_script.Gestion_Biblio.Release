@@ -1,0 +1,10 @@
+release/bookdialog.o
+release/databasemanager.o
+release/main.o
+release/mainwindow.o
+release/memberdialog.o
+release/qrc_images.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_bookdialog.o
+release/moc_mainwindow.o
+release/moc_memberdialog.o
